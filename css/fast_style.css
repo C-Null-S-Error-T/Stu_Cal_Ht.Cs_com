@@ -1,0 +1,16 @@
+h3{
+    font-size: 30px;
+}
+div{
+    color:rgb(224, 1, 31)
+}
+.blog{
+    /* display:none */
+    /* visibility: hidden; */
+}
+div{
+    border: 10px solid green;
+    margin: 15px;
+    box-shadow: 10px 10px 20px purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

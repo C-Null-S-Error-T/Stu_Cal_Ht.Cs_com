@@ -1,0 +1,14 @@
+header{
+    height: 711px;
+    background-image: url(picturelll.png);
+    background-repeat: no-repeat;
+}
+.box_1{
+    font-size: 20px;
+    background-color: black;
+    color: greenyellow;
+    margin: 20px;
+    border: 7px solid red;
+    border-radius: 20px;
+    box-shadow:10px 10px rgb(242, 0, 255) ;
+}
