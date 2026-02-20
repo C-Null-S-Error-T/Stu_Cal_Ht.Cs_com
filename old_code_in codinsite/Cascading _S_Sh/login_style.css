@@ -1,0 +1,9 @@
+*{
+    background-color: aqua;
+}
+label{
+    display: block;
+    width: 300px;
+    margin: 10px;
+    background-image: url("/assets/img/baci.jpg");
+}

@@ -1,0 +1,26 @@
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+
+}
+nav a{
+    text-decoration: none;
+    
+}
+nav > li:hover{
+    background-color: rgb(255, 0, 38);
+}
+nav li .hober_larn{
+    display: none;
+    position: absolute;
+}
+nav li:hover .hober_larn{
+    display: block;
+    background-color: greenyellow;
+    padding-left: 2px;
+
+}
